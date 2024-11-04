@@ -1,8 +1,7 @@
-# PowerBI_Finance
+## PowerBI Finance Dashboard for Business Intelligence(BI)
 
 ![]()
 
-## PowerBI Finance Dashboard for Business Intelligence(BI)
 
 ## Introduction
 
