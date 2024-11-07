@@ -1,4 +1,4 @@
-## PowerBI Finance Dashboard for Business Intelligence(BI)
+## PowerBI: Personal Finance Dashboard for Business Intelligence(BI)
 
 ![](https://github.com/yogee4/PowerBI_Finance/blob/main/logo.jpg)
 
