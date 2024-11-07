@@ -1,7 +1,8 @@
-## PowerBI: Personal Finance Dashboard for Business Intelligence(BI)
+## PowerBI: Personal Finance Dashboard(Business Intelligence)
 
 ![](https://github.com/yogee4/PowerBI_Finance/blob/main/logo.jpg)
 
+Dashboard Report Link: https://app.powerbi.com/groups/me/reports/d4351831-b977-4b42-87f5-d8118e9a0c14/ReportSection?experience=power-bi
 
 ## Introduction
 
@@ -15,6 +16,8 @@ The primary purpose of this Finance Dashboard is to:
 - Monitor financial targets and measure progress towards achieving them.
 - Offer insights into savings percentages and the distribution of expenses across various components (e.g., rent, groceries, health, etc.).
 - Support users in managing finances by comparing expenses against savings and helping identify areas for improvement.
+
+  ![Snap](https://github.com/yogee4/PowerBI_Project/blob/main/Report_Snapshot.png)
 
 ## Key Requirements
 
